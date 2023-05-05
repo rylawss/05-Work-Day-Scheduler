@@ -15,8 +15,9 @@ css
 Utilized third party API's Jquery and DayJS in place of vanilla JavaScript to achieve the desired planner.
 
 ## SITE LINK
+https://rylawss.github.io/05-Work-Day-Scheduler/
 
-
+![image](https://user-images.githubusercontent.com/128633609/236371033-668094db-da58-4588-87b9-cff975462997.png)
 
 
 ## License
