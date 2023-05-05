@@ -1,7 +1,8 @@
 $(document).ready(function () {
   function hourUpdater() {
+    //variable for the current time
     var currentTime = dayjs().hour();
-
+    //adds classes based on if the time is in the past present and future
     $(".time-block").each(function () {
       var calenderTime = parseInt($(this).attr("id").split("-")[1]);
 
@@ -18,9 +19,8 @@ $(document).ready(function () {
     });
   }
 
-  // saves the value of text written in the description to local storage
+  // saves the value of text written in the description to local storage and
   $(".saveBtn").on("click", function () {
-    // get nearby values
     var desc = $(this).siblings(".description").val();
     var id = $(this).parent().attr("id");
 
