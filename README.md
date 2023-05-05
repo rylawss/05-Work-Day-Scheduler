@@ -16,9 +16,8 @@ Utilized third party API's Jquery and DayJS in place of vanilla JavaScript to ac
 
 ## SITE LINK
 
-https://rylawss.github.io/04-Code-Quiz/
 
-![04](https://user-images.githubusercontent.com/128633609/235045488-42b61f82-cb08-4e95-a932-b4259722c969.PNG)
+
 
 ## License
 
